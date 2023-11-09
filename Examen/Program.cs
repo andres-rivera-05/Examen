@@ -8,7 +8,7 @@ try
     clase.NombreClase = "Programacion II";
     clase.HoraClase = "18:00 - 19.30";
     clase.NombreCatedratico = "Roger Ivan Gurdian";
-    clase.Nombre = "andres";
+    clase.Nombre = "Cristian Andres Rivera Rivea";
     clase.NumeroCuenta = "T3231125";
     clase.email = "Cristiarivera@gmail.com";
 
